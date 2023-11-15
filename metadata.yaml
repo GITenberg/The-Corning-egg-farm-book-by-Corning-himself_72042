@@ -1,0 +1,30 @@
+_repo: The-Corning-egg-farm-book-by-Corning-himself_72042
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Corning, Edward
+    gutenberg_agent_id: '56512'
+    url: http://www.gutenberg.org/2009/agents/56512
+  - agent_name: Corning, Gardner
+    gutenberg_agent_id: '56513'
+    url: http://www.gutenberg.org/2009/agents/56513
+description: ''
+gutenberg_issued: '2023-11-05'
+identifiers:
+  gutenberg: '72042'
+language: en
+pgterms:marc904: https://archive.org/details/corningeggfarmbo00corn
+pgterms:marc905: 20220921144818corning
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: deaurider, Harry Lamé and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aBound Brook :$bThe Corning Egg Farm, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Corning egg farm book by Corning himself
+url: http://www.gutenberg.org/ebooks/72042
