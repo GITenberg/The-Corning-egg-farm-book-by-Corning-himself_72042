@@ -1,5 +1,8 @@
 _repo: The-Corning-egg-farm-book-by-Corning-himself_72042
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72042-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Corning, Edward
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56513'
     url: http://www.gutenberg.org/2009/agents/56513
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72042#The-Corning-egg-farm-book-by-Corning-himself
 gutenberg_issued: '2023-11-05'
 identifiers:
   gutenberg: '72042'
